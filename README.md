@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=ffcf00&height=300&section=header&text=Choi%20Hyeonhye's%20Github&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=Waving&fontColor=ffcf00&height=300&section=header&text=Choi%20Hyeonhye's%20Github&fontSize=60)
 
   ## 😄
   #### Welcome to my github
