@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Choi%20Hyeonhye's%20Github)
 
-<div>
-
   ## 😄
   #### Welcome to my github
   <br/>
   <br/>
+
+<div align="center">
 
   ## 💻 Tech Stacks
   ### Languages and Platforms
