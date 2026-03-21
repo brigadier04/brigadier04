@@ -36,7 +36,7 @@
   <br/>
   
 ## 📊 Stats
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brigadier04&layout=compact&card_width=400" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brigadier04&layout=compact&card_width=400" height="195" />
   <img src="https://github-readme-stats.vercel.app/api?username=brigadier04&show_icons=true&card_width=400" height="165" />
   
 </div>
