@@ -37,6 +37,7 @@
   
 ## 📊 Stats
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brigadier04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=brigadier04&show_icons=true">
   
 </div>
 <!--
