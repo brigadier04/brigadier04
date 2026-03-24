@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&fontColor=FFFFFF&height=300&section=header&text=Choi%20Hyeonhye's%20Github&fontSize=40)
 
-  ## 😄
-  #### Welcome to my github
+  ## 🏫
+  #### 멍지대학교 컴퓨터공학 2023.03~
   <br/>
   <br/>
 
